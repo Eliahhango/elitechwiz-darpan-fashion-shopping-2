@@ -8,7 +8,7 @@
     "@mui/icons-material": "^5.15.10",
     "@mui/material": "^5.15.10",
     "@reduxjs/toolkit": "^2.2.1",
-    "axios": "^1.6.7",
+    "axios": "^1.18.0",
     "i18next": "^23.16.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
